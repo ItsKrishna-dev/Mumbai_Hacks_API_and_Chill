@@ -1,8 +1,6 @@
 from crewai import Task
 from typing import Dict, List, Any
 from utils import log
-from builtins import str, bool, int, float, dict, list,len
-
 def create_alert_task(
     alert_agent,
     escalation_signal: Dict[str, Any],

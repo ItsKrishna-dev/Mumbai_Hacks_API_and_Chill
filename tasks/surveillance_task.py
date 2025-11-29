@@ -2,7 +2,6 @@ from crewai import Task
 from typing import Optional
 from utils import log
 from config import settings
-from builtins import str, bool, int, float, dict, list,len
 def create_surveillance_task(
     surveillance_agent,
     time_window_hours: int = 24,

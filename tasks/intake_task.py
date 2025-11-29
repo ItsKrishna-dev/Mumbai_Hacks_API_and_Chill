@@ -2,7 +2,6 @@ from crewai import Task
 from typing import Dict, Any
 from agents import coordinator_agent
 from utils import log
-from builtins import str, bool, int, float, dict, list,len,self
 
 def create_intake_task(
     coordinator_agent,  # Agent object passed from crew

@@ -1,7 +1,7 @@
 from crewai import Task
 from typing import Dict, Any
 from utils import log
-from builtins import str, bool, int, float, dict, list,len
+
 
 def create_followup_task(
     coordinator_agent,
