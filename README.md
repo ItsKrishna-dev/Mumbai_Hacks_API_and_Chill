@@ -32,8 +32,6 @@ SwasthAI is an autonomous health intelligence platform that leverages multi-agen
 
 ---
 
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
